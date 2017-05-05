@@ -3,7 +3,7 @@ Library           Selenium2Library
 
 *** Test Cases ***
 New customer
-    Comment    open browser    http://demo.guru99.com/V4/    gc
+    Comment    open browser    http://demo.guru99.com/V4/    ff
     Comment    input text    xpath=//*[@name='uid']    mngr73940
     Comment    input text    xpath=//*[@name='password']    rEqEqan
     Comment    click button    xpath=//*[@value='LOGIN']
